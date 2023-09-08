@@ -22,7 +22,7 @@ This is a non installation web application. Just open in a web page!
 
 ## Usage
 
-To use this Web application, down load the [Pre-Work-Study-Guide Repository and open it in your prefered IDE.]([Update Link After Deployed](https://github.com/DylanOzzy/Prework-Study-Guide.git))
+To use this Web application, down load the [Pre-Work-Study-Guide Repository and open it in your prefered IDE.](https://github.com/DylanOzzy/Prework-Study-Guide.git)
 
 
 ## License
